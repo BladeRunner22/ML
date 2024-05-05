@@ -1,1 +1,1 @@
-# ML/NLP Labs and Projects
+# ML-NLP Labs and Projects
